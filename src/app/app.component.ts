@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'SpareToShare';
-  about ='this app is for shareing the things';
+  about ='this app is for shareing the things. we deals in spare and share ';
 }
